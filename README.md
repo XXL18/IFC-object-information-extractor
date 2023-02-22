@@ -1,0 +1,1 @@
+source code of Automated information extraction of IFC object instances based on graph theory and SPARQL query
